@@ -17038,3 +17038,565 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-09.04.43:376][962]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.11-09.04.43:376][962]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
 [2021.11.11-09.04.43:376][962]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.05.59:601][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.11.11-09.05.59:740][ 44]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01C748DAF14B82566A841DD0B23766F006.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.05.59:756][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.05.59:776][ 44]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataB8510D734CF252E47364F3A46ACD37AB.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.05.59:808][ 44]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.05.59:808][ 44]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.05.59:808][ 44]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.06.01:311][ 96]LogActorFactory: Actor Factory created SM_RockFormation_02
+[2021.11.11-09.06.01:918][127]LogActorFactory: Actor Factory created SM_RockFormation_02
+[2021.11.11-09.06.11:759][698]Cmd: TRANSACTION UNDO
+[2021.11.11-09.06.11:760][698]LogEditorTransaction: Undo Move Actors
+[2021.11.11-09.06.11:763][698]LogMaterial: Display: Missing cached shader map for material Terrian_Matt, compiling. 
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.11-09.06.11:852][698]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.11.11-09.06.11:972][698]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.11-09.06.12:996][719]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.11.11-09.06.13:052][721]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.11.11-09.06.13:500][732]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.11.11-09.06.13:732][740]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.11-09.06.14:546][778]MaterialEditorStats: Base pass shader: 127 instructions
+[2021.11.11-09.06.14:546][778]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2021.11.11-09.06.14:546][778]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.11.11-09.06.14:546][778]MaterialEditorStats: Texture samplers: 4/16
+[2021.11.11-09.06.14:546][778]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.11.11-09.06.14:546][778]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.11.11-09.06.34:366][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.11.11-09.06.34:521][942]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map019C669D5A47AA275673C4F28F5EFF86B4.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.06.34:541][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.06.34:559][942]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData039FA822469F143D353EC7825049E38F.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.06.34:596][942]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.06.34:596][942]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.06.34:597][942]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.07.25:725][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_53)
+[2021.11.11-09.07.47:672][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.11.11-09.07.47:817][633]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map0165826F7845FD2659EBF6C8AA8B65DBFA.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.07.47:834][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.07.47:851][633]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataEA69486C46D7E400E4A7349329997ED3.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.07.47:874][633]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.07.47:874][633]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.07.47:874][633]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.07.52:401][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.11.11-09.07.52:540][879]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map015D17887645A8EF82350A4BBFE61BF74C.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.07.52:556][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.07.52:571][879]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataC11E5D30480EE35B1FFE6D9123A65985.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.07.52:594][879]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.07.52:594][879]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.07.52:594][879]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.07.55:420][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_52)
+[2021.11.11-09.07.56:738][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_55)
+[2021.11.11-09.08.26:263][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_56)
+[2021.11.11-09.08.29:382][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.11.11-09.08.29:534][969]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map0189CBE13841800ACAF1BF70A1148516F8.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.08.29:550][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.08.29:564][969]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataC90173F74F2D385E0FB02DBF6A87767F.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.08.29:597][969]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.08.29:597][969]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.08.29:597][969]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.08.38:110][454]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.11.11-09.08.38:254][454]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01F02AB69240B343E3C92EDCAAE02B28F3.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.08.38:273][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.08.38:289][454]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData40B4D5084891B5B768FA62AE0FBD397B.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.08.38:319][454]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.08.38:319][454]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.08.38:319][454]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.08.41:358][603]LogActorFactory: Actor Factory created Plane
+[2021.11.11-09.08.41:914][633]LogActorFactory: Actor Factory created Plane
+[2021.11.11-09.09.01:199][742]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.11.11-09.09.01:343][742]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01CC697FEE4591FC93FCBDE7ADD112659B.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.09.01:363][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.09.01:382][742]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData50A275AF4EE8DA8C0478158C2C93B8DB.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.09.01:414][742]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.09.01:414][742]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.09.01:414][742]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.09.10:586][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.11.11-09.09.10:734][278]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01CAA895A94BB9D4FEAC165397662DB125.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.09.10:753][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.09.10:767][278]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataE15D0B7A4EE15D856DF56AA79CC46B38.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.09.10:796][278]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.09.10:796][278]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.09.10:797][278]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.10.30:575][899]LogMaterial: Display: Missing cached shader map for material M_Water_Moving, compiling. 
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 37
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2021.11.11-09.10.30:753][899]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2021.11.11-09.10.33:388][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.11.11-09.10.33:760][975]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01C294F3F3414E780B6D39B3ADED816428.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.10.33:796][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.10.33:824][975]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData25E8889045707348D8BACEB6BE083DE9.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.10.33:901][975]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.10.33:901][975]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.10.33:901][975]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.11.20:568][738]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Water_River.MI_Water_River
+[2021.11.11-09.11.21:435][738]LogRenderer: Reallocating scene render targets to support 1336x932 Format 10 NumSamples 1 (Frame:1).
+[2021.11.11-09.11.28:434][853]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.11-09.11.29:294][869]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.11-09.11.29:647][874]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.11-09.11.32:766][912]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.11.11-09.11.32:766][912]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.11-09.11.32:958][912]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.11.11-09.11.33:623][912]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.11.11-09.11.51:261][476]LogSlate: Window 'Message' being destroyed
+[2021.11.11-09.11.51:290][476]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/_ProjectContent/Material/Terrian_Matt.Terrian_Matt
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.11-09.11.52:488][520]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/MI_Water_River04B18A774C8A0172810F64934D9F13D5.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Water_River.uasset'
+[2021.11.11-09.11.52:514][520]AssetCheck: New page: Asset Save: MI_Water_River
+[2021.11.11-09.11.52:514][520]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Water_River.MI_Water_River
+[2021.11.11-09.11.54:129][574]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.11.54:129][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.12.06:147][ 83]LogMaterial: Display: Missing cached shader map for material M_Water_Base, compiling. 
+[2021.11.11-09.12.06:243][ 83]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.11.11-09.12.06:243][ 83]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.11.11-09.12.06:243][ 83]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.11.11-09.12.06:243][ 83]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.11.11-09.12.06:243][ 83]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.11.11-09.12.06:243][ 83]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.11.11-09.12.06:243][ 83]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.11.11-09.12.06:367][ 83]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Water_Lake.MI_Water_Lake
+[2021.11.11-09.12.25:519][421]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/MI_Water_LakeFE85CB884B6106660549A8BD54512CF2.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Water_Lake.uasset'
+[2021.11.11-09.12.25:568][421]AssetCheck: New page: Asset Save: MI_Water_Lake
+[2021.11.11-09.12.25:568][421]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/DreamscapeSeries/DreamscapeMeadows/Materials/Water/MI_Water_Lake.MI_Water_Lake
+[2021.11.11-09.12.29:990][519]LogSlate: Window 'Message' being destroyed
+[2021.11.11-09.12.30:019][519]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/_ProjectContent/Material/Terrian_Matt.Terrian_Matt
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.11-09.12.31:193][553]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.12.31:193][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.12.45:439][ 47]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.11-09.12.45:449][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-09.12.45:449][ 47]PIE: New page: PIE session: Map01 (Nov 11, 2021, 11:12:45 PM)
+[2021.11.11-09.12.45:450][ 47]LogPlayLevel: Creating play world package: /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.12.45:487][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037299s)
+[2021.11.11-09.12.45:488][ 47]LogAIModule: Creating AISystem for world Map01
+[2021.11.11-09.12.45:489][ 47]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2021.11.11-09.12.45:489][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ProjectContent/Maps/Map01.Map01 to /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 (0.038796s)
+[2021.11.11-09.12.46:309][ 47]LogUObjectHash: Compacting FUObjectHashTables data took  10.23ms
+[2021.11.11-09.12.46:315][ 47]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2021.11.11-09.12.46:315][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-09.12.46:315][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-09.12.46:315][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-09.12.46:315][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-09.12.46:315][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-09.12.46:315][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-09.12.46:315][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-09.12.46:315][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-09.12.46:316][ 47]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-09.12.46:316][ 47]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-09.12.46:319][ 47]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-09.12.46:319][ 47]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-09.12.46:333][ 47]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.11-09.12.46:334][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-09.12.46:334][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-09.12.46:334][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-09.12.46:334][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-09.12.46:334][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-09.12.46:334][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-09.12.46:356][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-09.12.46:356][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-09.12.46:356][ 47]LogInit: FAudioDevice initialized.
+[2021.11.11-09.12.46:356][ 47]LogAudio: Display: Audio Device (ID: 68) registered with world 'Map01'.
+[2021.11.11-09.12.46:371][ 47]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-09.12.46:379][ 47]LogWorld: Bringing World /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 up for play (max tick rate 60) at 2021.11.11-16.12.46
+[2021.11.11-09.12.46:379][ 47]LogWorld: Bringing up level for play took: 0.006734
+[2021.11.11-09.12.46:379][ 47]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.11.11-09.12.46:383][ 47]PIE: Server logged in
+[2021.11.11-09.12.46:384][ 47]PIE: Play in editor total start time 0.936 seconds.
+[2021.11.11-09.13.25:376][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.13.25:376][248]LogWorld: BeginTearingDown for /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.13.25:377][248]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.13.25:378][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.13.25:394][248]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-09.13.25:418][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.13.25:461][248]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.13.25:461][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.13.25:463][248]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.13.25:491][248]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2021.11.11-09.13.25:550][249]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.11.11-09.13.27:284][323]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.11.11-09.13.27:427][323]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01703F4A6D46F834C4A4A8E6BAE857012C.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.13.27:444][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.13.27:459][323]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData13013FE84DD11166D8FCC9AED0D4C436.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.13.27:481][323]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.13.27:482][323]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.13.27:482][323]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.13.29:122][399]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.11-09.13.30:222][432]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.11-09.13.31:749][514]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.11-09.13.40:180][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.11-09.13.40:327][970]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map018052E3E549EBB31807D60AB84579EFBC.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.13.40:346][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.13.40:362][970]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataDDDADF294241804B83D0B7B6A0E56EEB.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.13.40:386][970]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.13.40:386][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.13.40:386][970]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.13.42:068][ 53]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.11-09.14.34:160][729]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.11-09.14.38:889][978]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.11-09.14.44:832][296]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.11.11-09.15.22:196][982]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Engine/BasicShapes/Plane.Plane
+[2021.11.11-09.15.23:442][983]LogRenderer: Reallocating scene render targets to support 1400x932 Format 10 NumSamples 1 (Frame:1).
+[2021.11.11-09.19.20:900][553]LogRenderer: Reallocating scene render targets to support 1432x932 Format 10 NumSamples 1 (Frame:3598).
+[2021.11.11-09.20.01:206][417]LogStaticMesh: Building static mesh Plane...
+[2021.11.11-09.20.01:206][417]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.11-09.20.01:276][417]LogStaticMesh: Built static mesh [0.06s] /Engine/BasicShapes/Plane.Plane
+[2021.11.11-09.20.03:826][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Plane" FILE="../../../Engine/Content/BasicShapes/Plane.uasset" SILENT=true
+[2021.11.11-09.20.03:877][529]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Plane4387434B4275AEE8E84B7C9A171CD73C.tmp' to '../../../Engine/Content/BasicShapes/Plane.uasset'
+[2021.11.11-09.20.03:911][529]AssetCheck: New page: Asset Save: Plane
+[2021.11.11-09.20.03:911][529]LogContentValidation: Display: Validating StaticMesh /Engine/BasicShapes/Plane.Plane
+[2021.11.11-09.20.06:313][642]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.11-09.20.06:321][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-09.20.06:321][642]PIE: New page: PIE session: Map01 (Nov 11, 2021, 11:20:06 PM)
+[2021.11.11-09.20.06:345][642]LogPlayLevel: Creating play world package: /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.20.06:368][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022901s)
+[2021.11.11-09.20.06:369][642]LogAIModule: Creating AISystem for world Map01
+[2021.11.11-09.20.06:370][642]LogPlayLevel: PIE: World Init took: (0.001823s)
+[2021.11.11-09.20.06:370][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ProjectContent/Maps/Map01.Map01 to /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 (0.024955s)
+[2021.11.11-09.20.06:525][642]LogUObjectHash: Compacting FUObjectHashTables data took   6.28ms
+[2021.11.11-09.20.06:529][642]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-09.20.06:529][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-09.20.06:529][642]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-09.20.06:529][642]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-09.20.06:532][642]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-09.20.06:532][642]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-09.20.06:545][642]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.11-09.20.06:545][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-09.20.06:545][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-09.20.06:545][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-09.20.06:546][642]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-09.20.06:546][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-09.20.06:546][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-09.20.06:560][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-09.20.06:560][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-09.20.06:560][642]LogInit: FAudioDevice initialized.
+[2021.11.11-09.20.06:560][642]LogAudio: Display: Audio Device (ID: 69) registered with world 'Map01'.
+[2021.11.11-09.20.06:570][642]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-09.20.06:577][642]LogWorld: Bringing World /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 up for play (max tick rate 60) at 2021.11.11-16.20.06
+[2021.11.11-09.20.06:577][642]LogWorld: Bringing up level for play took: 0.005951
+[2021.11.11-09.20.06:577][642]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2021.11.11-09.20.06:580][642]PIE: Server logged in
+[2021.11.11-09.20.06:581][642]PIE: Play in editor total start time 0.261 seconds.
+[2021.11.11-09.20.52:026][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.20.52:026][352]LogWorld: BeginTearingDown for /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.20.52:026][352]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.20.52:027][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.20.52:041][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-09.20.52:061][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.20.52:103][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-09.20.52:104][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.20.52:105][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.20.52:123][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.20.52:132][352]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.11.11-09.20.52:187][353]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2021.11.11-09.22.31:508][785]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.11-09.22.31:518][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-09.22.31:519][785]PIE: New page: PIE session: Map01 (Nov 11, 2021, 11:22:31 PM)
+[2021.11.11-09.22.31:519][785]LogPlayLevel: Creating play world package: /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.22.31:556][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036378s)
+[2021.11.11-09.22.31:556][785]LogAIModule: Creating AISystem for world Map01
+[2021.11.11-09.22.31:557][785]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2021.11.11-09.22.31:557][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ProjectContent/Maps/Map01.Map01 to /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 (0.037840s)
+[2021.11.11-09.22.31:623][785]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.11.11-09.22.31:637][785]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2021.11.11-09.22.31:637][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-09.22.31:637][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-09.22.31:637][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-09.22.31:637][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-09.22.31:637][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-09.22.31:637][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-09.22.31:637][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-09.22.31:637][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-09.22.31:639][785]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-09.22.31:639][785]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-09.22.31:643][785]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-09.22.31:643][785]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-09.22.31:657][785]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.11-09.22.31:657][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-09.22.31:658][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-09.22.31:658][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-09.22.31:658][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-09.22.31:658][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-09.22.31:658][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-09.22.31:679][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-09.22.31:679][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-09.22.31:679][785]LogInit: FAudioDevice initialized.
+[2021.11.11-09.22.31:679][785]LogAudio: Display: Audio Device (ID: 70) registered with world 'Map01'.
+[2021.11.11-09.22.31:687][785]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-09.22.31:693][785]LogWorld: Bringing World /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 up for play (max tick rate 60) at 2021.11.11-16.22.31
+[2021.11.11-09.22.31:694][785]LogWorld: Bringing up level for play took: 0.005656
+[2021.11.11-09.22.31:694][785]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2021.11.11-09.22.31:697][785]PIE: Server logged in
+[2021.11.11-09.22.31:698][785]PIE: Play in editor total start time 0.181 seconds.
+[2021.11.11-09.23.06:856][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.23.06:856][891]LogWorld: BeginTearingDown for /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.23.06:857][891]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.23.06:858][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.23.06:879][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-09.23.06:889][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.23.06:938][891]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-09.23.06:938][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.23.06:939][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.23.06:961][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.23.06:967][891]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.11.11-09.23.07:010][892]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2021.11.11-09.23.08:947][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.11.11-09.23.08:961][988]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.11.11-09.23.09:152][988]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map019F8E0FBA4CD468CC2710D39B22BA7D87.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.23.09:167][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.23.09:188][988]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData7A94A6464172DFCF7CD852ADB5D8EE27.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.23.09:217][988]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.23.09:217][988]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.23.09:217][988]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.23.15:893][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.11.11-09.23.16:096][359]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01FAFE9D5B4F20A620F7A6C2B2C9B96EE3.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.23.16:114][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.23.16:130][359]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData8F5EB91E47BBF21DBD07BDB97DB2EA52.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.23.16:157][359]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.23.16:157][359]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.23.16:157][359]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.24.00:147][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.11.11-09.24.00:350][955]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map011593632A45C3C6D898A25AA05F36689F.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.24.00:368][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.24.00:387][955]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData4D35CF004B32F6E01605DABC52E9BD93.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.24.00:421][955]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.24.00:421][955]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.24.00:422][955]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.24.18:490][965]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.11.11-09.24.18:700][965]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map014955273445AEBEEEBCA28789B29D0AE2.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.24.18:720][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.24.18:737][965]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData26EEB20D4C732DBF4BD09382385DD1A4.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.24.18:776][965]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.24.18:776][965]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.24.18:776][965]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.24.27:988][447]LogActorFactory: Actor Factory created SM_RockFormation_04
+[2021.11.11-09.24.28:457][452]LogActorFactory: Actor Factory created SM_RockFormation_04
+[2021.11.11-09.24.41:521][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_57)
+[2021.11.11-09.24.51:088][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.11.11-09.24.51:300][614]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01A7D814944EEFC5EB039004A4DCC730DC.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.24.51:319][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.24.51:339][614]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData41024813412AEDBB555DD28F961288CD.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.24.51:367][614]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.24.51:367][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.24.51:368][614]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.24.55:588][809]LogActorFactory: Actor Factory created SM_RockFormation_03
+[2021.11.11-09.24.56:448][832]LogActorFactory: Actor Factory created SM_RockFormation_03
+[2021.11.11-09.25.01:389][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_62)
+[2021.11.11-09.25.04:869][288]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.11.11-09.25.05:085][288]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01F143362944662048D1A52CA82F0614DB.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.25.05:105][288]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.25.05:123][288]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData984563D845AF5B992E1FB8A490EAC3C1.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.25.05:162][288]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.25.05:162][288]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.25.05:162][288]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.25.09:127][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_61)
+[2021.11.11-09.25.20:460][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_64)
+[2021.11.11-09.25.22:435][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.11-09.25.22:925][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RockFormation_63)
+[2021.11.11-09.25.27:657][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2021.11.11-09.25.27:858][489]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01C8A9110C4F5F13FDF8599B92AF73B931.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.25.27:879][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.25.27:899][489]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData186253EF4F26600487E95A80B12A7FCD.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.25.27:938][489]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.25.27:939][489]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.25.27:939][489]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.25.51:408][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.11.11-09.25.51:623][850]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map0104F94BE04CD61D5544BD969C1633F079.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.25.51:644][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.25.51:663][850]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataD8DECFBB4C77845E473274A91577632D.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.25.51:703][850]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.25.51:703][850]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.25.51:703][850]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.26.08:257][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.11.11-09.26.08:480][784]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map0166CE32BC43347DC598C993BE235A3EE7.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.26.08:500][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.26.08:521][784]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData99FBAC054035708CD410219F732C7B87.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.26.08:563][784]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.26.08:563][784]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.26.08:564][784]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.26.10:741][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.11.11-09.26.10:977][885]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01BE0DC12B4CFED818E88A2FBDF5BC0A2B.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.26.10:995][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.26.11:016][885]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataFAD44D1647B5AD5B63146CB8C00F09D9.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.26.11:044][885]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.26.11:044][885]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.26.11:044][885]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.26.27:772][838]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.11-09.26.27:782][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-09.26.27:782][838]PIE: New page: PIE session: Map01 (Nov 11, 2021, 11:26:27 PM)
+[2021.11.11-09.26.27:804][838]LogPlayLevel: Creating play world package: /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.26.27:840][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035990s)
+[2021.11.11-09.26.27:842][838]LogAIModule: Creating AISystem for world Map01
+[2021.11.11-09.26.27:842][838]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2021.11.11-09.26.27:842][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ProjectContent/Maps/Map01.Map01 to /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 (0.037942s)
+[2021.11.11-09.26.27:908][838]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
+[2021.11.11-09.26.27:916][838]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2021.11.11-09.26.27:916][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-09.26.27:916][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-09.26.27:916][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-09.26.27:916][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-09.26.27:916][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-09.26.27:916][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-09.26.27:916][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-09.26.27:916][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-09.26.27:916][838]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-09.26.27:917][838]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-09.26.27:920][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-09.26.27:920][838]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-09.26.27:939][838]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.11-09.26.27:940][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-09.26.27:940][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-09.26.27:940][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-09.26.27:940][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-09.26.27:940][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-09.26.27:940][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-09.26.27:966][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-09.26.27:966][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-09.26.27:966][838]LogInit: FAudioDevice initialized.
+[2021.11.11-09.26.27:967][838]LogAudio: Display: Audio Device (ID: 71) registered with world 'Map01'.
+[2021.11.11-09.26.27:984][838]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-09.26.27:992][838]LogWorld: Bringing World /Game/_ProjectContent/Maps/UEDPIE_0_Map01.Map01 up for play (max tick rate 60) at 2021.11.11-16.26.27
+[2021.11.11-09.26.27:993][838]LogWorld: Bringing up level for play took: 0.007316
+[2021.11.11-09.26.27:993][838]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2021.11.11-09.26.27:997][838]PIE: Server logged in
+[2021.11.11-09.26.27:998][838]PIE: Play in editor total start time 0.217 seconds.
+[2021.11.11-09.26.46:066][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.26.46:066][913]LogWorld: BeginTearingDown for /Game/_ProjectContent/Maps/UEDPIE_0_Map01
+[2021.11.11-09.26.46:067][913]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.26.46:068][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.26.46:088][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-09.26.46:119][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.26.46:171][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.26.46:172][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.26.46:173][913]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.26.46:215][913]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2021.11.11-09.26.46:285][914]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2021.11.11-09.26.50:767][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.11.11-09.26.50:985][134]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map016EA9E82D4E13B91C2EBD14871B716267.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.26.51:003][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.26.51:024][134]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltDataE8324983437E8851F23AE6B1B34AB35C.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.26.51:054][134]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.26.51:056][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.26.51:056][134]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.27.15:278][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.11.11-09.27.15:502][456]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01B024E48A44CF6C1D78EFDE975C8345BA.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.umap'
+[2021.11.11-09.27.15:524][456]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Maps/Map01_BuiltData" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset" SILENT=true
+[2021.11.11-09.27.15:544][456]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Map01_BuiltData7BDA860A408B3DD1C983169EC53C3E1B.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01_BuiltData.uasset'
+[2021.11.11-09.27.15:573][456]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.27.15:573][456]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.11.11-09.27.15:573][456]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/Map01.Map01
+[2021.11.11-09.27.17:267][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.11.11-09.27.18:854][529]LogSlate: Window 'Save Content' being destroyed
+[2021.11.11-09.27.19:043][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Widget/Player_StateUI" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Widget/Player_StateUI.uasset" SILENT=true
+[2021.11.11-09.27.19:074][529]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Player_StateUI5420D06344D22EFA485BA2AC04916600.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Widget/Player_StateUI.uasset'
+[2021.11.11-09.27.19:280][529]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonCharacterCECE566847A76F7A8EB1438EA6F71232.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Blueprint/ThirdPersonCharacter.uasset'
+[2021.11.11-09.27.19:419][529]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Wizard_Anim_BPE8AA98304EE69F7C4159CF933B447A7D.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/ATARTCasualWizard/Animation/Wizard_Anim_BP.uasset'
+[2021.11.11-09.27.20:855][529]LogAssetEditorSubsystem: Opening Asset editor for World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-09.27.20:866][529]Cmd: MAP LOAD FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.11-09.27.20:866][529]LightingResults: New page: Lighting Build
+[2021.11.11-09.27.20:866][529]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.11.11-09.27.20:923][529]LogWorld: UWorld::CleanupWorld for Map01, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.27.20:939][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.27.20:940][529]MapCheck: New page: Map Check
+[2021.11.11-09.27.20:940][529]LightingResults: New page: Lighting Build
+[2021.11.11-09.27.21:020][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-09.27.21:148][529]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2021.11.11-09.27.21:158][529]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.11.11-09.27.21:332][529]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.11-09.27.21:332][529]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.11-09.27.21:463][529]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.11.11-09.27.21:476][529]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.11-09.27.21:477][529]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.255ms to complete.
+[2021.11.11-09.27.21:477][529]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.621
+[2021.11.11-09.27.21:559][529]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.27.21:559][529]LogContentValidation: Display: Validating Blueprint /Game/_ProjectContent/Blueprint/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.11-09.27.21:559][529]LogContentValidation: Display: Validating AnimBlueprint /Game/ATARTCasualWizard/Animation/Wizard_Anim_BP.Wizard_Anim_BP
+[2021.11.11-09.27.21:559][529]LogContentValidation: Display: Validating WidgetBlueprint /Game/_ProjectContent/Widget/Player_StateUI.Player_StateUI
+[2021.11.11-09.27.26:274][785]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.11-09.27.26:283][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-09.27.26:284][785]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 11, 2021, 11:27:26 PM)
+[2021.11.11-09.27.26:284][785]LogPlayLevel: Creating play world package: /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.11-09.27.26:342][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057254s)
+[2021.11.11-09.27.26:343][785]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.11-09.27.26:344][785]LogPlayLevel: PIE: World Init took: (0.002306s)
+[2021.11.11-09.27.26:344][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.059833s)
+[2021.11.11-09.27.26:413][785]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2021.11.11-09.27.26:416][785]LogAudio: Display: Creating Audio Device:                 Id: 72, Scope: Unique, Realtime: True
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-09.27.26:416][785]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-09.27.26:416][785]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-09.27.26:416][785]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-09.27.26:419][785]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-09.27.26:419][785]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-09.27.26:433][785]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.11-09.27.26:434][785]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-09.27.26:434][785]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-09.27.26:434][785]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-09.27.26:435][785]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-09.27.26:435][785]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-09.27.26:435][785]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-09.27.26:463][785]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-09.27.26:464][785]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-09.27.26:464][785]LogInit: FAudioDevice initialized.
+[2021.11.11-09.27.26:464][785]LogAudio: Display: Audio Device (ID: 72) registered with world 'ThirdPersonExampleMap'.
+[2021.11.11-09.27.26:477][785]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-09.27.26:481][785]LogWorld: Bringing World /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.11.11-16.27.26
+[2021.11.11-09.27.26:515][785]LogWorld: Bringing up level for play took: 0.036882
+[2021.11.11-09.27.26:515][785]LogOnline: OSS: Creating online subsystem instance for: :Context_92
+[2021.11.11-09.27.26:520][785]PIE: Server logged in
+[2021.11.11-09.27.26:521][785]PIE: Play in editor total start time 0.238 seconds.
+[2021.11.11-09.27.45:576][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.27.45:576][912]LogWorld: BeginTearingDown for /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.11-09.27.45:577][912]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-09.27.45:577][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.27.45:591][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-09.27.45:601][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-09.27.45:650][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.11-09.27.45:650][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.27.45:652][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-09.27.45:674][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-09.27.45:979][912]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2021.11.11-09.27.46:023][913]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2021.11.11-09.27.47:537][986]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.11.11-09.27.47:561][986]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMapBBC3CE6B4F132C1D4EA27E8B02BB1FCF.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-09.27.47:757][986]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltData3E82581A41381B2501EEB6A0292497B0.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-09.27.47:795][986]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.27.47:795][986]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-09.27.47:795][986]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-09.27.53:705][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.11-09.27.53:737][316]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMapAADDA29A4B50FBAFBAF6F6A058EED7D7.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-09.27.53:867][316]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltData0F1E74414A175EA5153F8FB41D11C6A2.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-09.27.53:903][316]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.27.53:903][316]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-09.27.53:903][316]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-09.28.01:089][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.11-09.28.01:119][722]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMapC72416CF49F76EDC9AD33391483649EF.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-09.28.01:250][722]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltData7D28C92A40C477597DFDD9905DD3963A.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-09.28.01:287][722]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-09.28.01:287][722]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-09.28.01:287][722]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData

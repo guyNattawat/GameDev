@@ -17600,3 +17600,326 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.11-09.28.01:287][722]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.11-09.28.01:287][722]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.11.11-09.28.01:287][722]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-11.31.11:799][811]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.11-11.31.11:800][811]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.11-11.31.13:976][914]LogUObjectHash: Compacting FUObjectHashTables data took  11.39ms
+[2021.11.11-11.31.14:055][914]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMapDE5E6488499A79DE1FBB2E9EA870C7F9.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-11.31.14:185][914]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltData5C2F80B247D39F788FB4D9AFF4697DAE.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-11.31.14:244][914]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-11.31.14:244][914]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-11.31.14:244][914]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-11.31.40:955][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.11.11-11.31.40:982][367]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap0B3508AA494659170BC15E8868F22AF2.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-11.31.41:088][367]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltData2BF61CD042325EDF3EE725B82F7526F4.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-11.31.41:114][367]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-11.31.41:114][367]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-11.31.41:114][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-11.31.42:138][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.11.11-11.31.42:159][415]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMapE92266FC42FA9D60E88ED8A2FE631E94.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-11.31.42:272][415]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltDataD7C938EE42BEE406EB2BFB9F4A129A39.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-11.31.42:296][415]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-11.31.42:296][415]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-11.31.42:296][415]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-11.31.45:508][583]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.11-11.31.45:517][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.11-11.31.45:517][583]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2021, 1:31:45 AM)
+[2021.11.11-11.31.45:543][583]LogPlayLevel: Creating play world package: /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.11-11.31.45:562][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018236s)
+[2021.11.11-11.31.45:565][583]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.11-11.31.45:566][583]LogPlayLevel: PIE: World Init took: (0.004744s)
+[2021.11.11-11.31.45:567][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023787s)
+[2021.11.11-11.31.45:617][583]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2021.11.11-11.31.45:620][583]LogAudio: Display: Creating Audio Device:                 Id: 73, Scope: Unique, Realtime: True
+[2021.11.11-11.31.45:620][583]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.11-11.31.45:620][583]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.11-11.31.45:620][583]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.11-11.31.45:620][583]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.11-11.31.45:620][583]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.11-11.31.45:620][583]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.11-11.31.45:620][583]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.11-11.31.45:620][583]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.11-11.31.45:621][583]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.11-11.31.45:621][583]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.11-11.31.45:624][583]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.11-11.31.45:624][583]LogAudioMixer: Display: 1: FrontRight
+[2021.11.11-11.31.45:637][583]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.11.11-11.31.45:642][583]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.11-11.31.45:642][583]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.11-11.31.45:642][583]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.11-11.31.45:644][583]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.11-11.31.45:644][583]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.11-11.31.45:644][583]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.11-11.31.45:656][583]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.11-11.31.45:657][583]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.11-11.31.45:657][583]LogInit: FAudioDevice initialized.
+[2021.11.11-11.31.45:657][583]LogAudio: Display: Audio Device (ID: 73) registered with world 'ThirdPersonExampleMap'.
+[2021.11.11-11.31.45:678][583]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.11-11.31.45:685][583]LogWorld: Bringing World /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.11.11-18.31.45
+[2021.11.11-11.31.45:686][583]LogWorld: Bringing up level for play took: 0.006733
+[2021.11.11-11.31.45:687][583]LogOnline: OSS: Creating online subsystem instance for: :Context_93
+[2021.11.11-11.31.45:693][583]PIE: Server logged in
+[2021.11.11-11.31.45:694][583]PIE: Play in editor total start time 0.178 seconds.
+[2021.11.11-11.32.16:934][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-11.32.16:934][445]LogWorld: BeginTearingDown for /Game/_ProjectContent/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.11.11-11.32.16:934][445]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.32.16:934][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.32.16:944][445]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.11-11.32.16:950][445]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.32.17:001][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.11-11.32.17:002][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-11.32.17:003][445]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-11.32.17:028][445]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.11.11-11.32.17:057][446]LogPlayLevel: Display: Destroying online subsystem :Context_93
+[2021.11.11-11.32.20:715][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.11.11-11.32.20:738][652]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap3A110A5548BEE8A03411CBADF3E11D51.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-11.32.20:854][652]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltData53222D8548727D579BD8F1BD7C49EEB2.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-11.32.20:881][652]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-11.32.20:881][652]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-11.32.20:881][652]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-11.34.10:220][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.11.11-11.34.10:263][193]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap2A5C91FB4A58E9DA90C3D480C799454A.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-11.34.10:400][193]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltData4028032644C2CB96D31979802C8333A5.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-11.34.10:425][193]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-11.34.10:425][193]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-11.34.10:425][193]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-11.34.13:958][262]LogSlate: Window 'Message' being destroyed
+[2021.11.11-11.34.13:972][262]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/_ProjectContent/Material/Terrian_Matt.Terrian_Matt
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.11-11.34.18:853][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/Plane" FILE="../../../Engine/Content/BasicShapes/Plane.uasset" SILENT=true
+[2021.11.11-11.34.18:858][431]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/PlaneF4AA4DAE41439D811260CA923E3BB042.tmp' to '../../../Engine/Content/BasicShapes/Plane.uasset'
+[2021.11.11-11.34.18:897][431]AssetCheck: New page: Asset Save: Plane
+[2021.11.11-11.34.18:897][431]LogContentValidation: Display: Validating StaticMesh /Engine/BasicShapes/Plane.Plane
+[2021.11.11-11.34.20:069][476]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.20:069][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.22:581][575]BlueprintLog: New page: Compile Player_StateUI
+[2021.11.11-11.34.22:696][575]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2021.11.11-11.34.34:245][715]LogSlate: Window 'Message' being destroyed
+[2021.11.11-11.34.34:253][715]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/_ProjectContent/Material/Terrian_Matt.Terrian_Matt
+(Selecting 'No' will cause all changes to be lost!)
+[2021.11.11-11.34.35:057][715]LogMaterial: Display: Missing cached shader map for material Terrian_Matt, compiling. 
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.11-11.34.35:116][715]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.11.11-11.34.35:230][715]LogMaterial: Display: Missing cached shader map for material Terrian_Matt, compiling. 
+[2021.11.11-11.34.35:390][715]LogUObjectHash: Compacting FUObjectHashTables data took  14.93ms
+[2021.11.11-11.34.35:414][715]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.11-11.34.36:542][715]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2021.11.11-11.34.36:542][715]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2021.11.11-11.34.37:097][715]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.11.11-11.34.37:097][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.11.11-11.34.37:097][715]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.11.11-11.34.37:097][715]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2021.11.11-11.34.37:097][715]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.11.11-11.34.37:547][715]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2021.11.11-11.34.37:548][715]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.11.11-11.34.37:548][715]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2021.11.11-11.34.37:562][715]TextureStreamingBuild: Display: Compiling optional shaders took 2.159 seconds.
+[2021.11.11-11.34.37:669][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.11.11-11.34.37:669][715]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.11.11-11.34.37:771][715]LogSlate: Window 'Player_StateUI' being destroyed
+[2021.11.11-11.34.37:777][715]LogSlate: Window 'Player_StateUI' being destroyed
+[2021.11.11-11.34.37:975][715]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.11-11.34.37:975][715]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.11-11.34.37:975][715]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.37:975][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.38:015][715]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.11.11-11.34.38:189][715]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.38:190][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.38:749][715]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.11-11.34.38:925][715]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.38:925][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.38:966][715]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.38:966][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.39:352][715]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.11.11-11.34.39:575][715]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.11-11.34.39:999][715]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.39:999][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.40:140][715]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.40:140][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.40:164][715]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.40:164][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.11-11.34.40:480][715]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.11.11-11.34.42:771][777]LogUObjectHash: Compacting FUObjectHashTables data took   9.62ms
+[2021.11.11-11.34.42:814][777]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap00698FA0452D70CFE9FA25A6C1B0DDD2.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap.umap'
+[2021.11.11-11.34.42:958][777]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/ThirdPersonExampleMap_BuiltDataB18B1121448AA694DF3E83B0834CA23E.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.11.11-11.34.42:993][777]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.11-11.34.42:994][777]LogContentValidation: Display: Validating World /Game/_ProjectContent/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.11.11-11.34.42:995][777]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_ProjectContent/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.11.11-11.34.44:683][854]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.11.11-11.34.45:928][854]LogSlate: Window 'Save Content' being destroyed
+[2021.11.11-11.34.46:154][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_ProjectContent/Material/Terrian_Matt" FILE="C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Material/Terrian_Matt.uasset" SILENT=true
+[2021.11.11-11.34.46:164][854]LogSavePackage: Moving 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Saved/Terrian_Matt171825674350B9A51DFE99BE126F6288.tmp' to 'C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Material/Terrian_Matt.uasset'
+[2021.11.11-11.34.46:313][854]LogSlate: Window 'FriendOfRohan - Unreal Editor' being destroyed
+[2021.11.11-11.34.46:989][854]AssetCheck: New page: Asset Save: Terrian_Matt
+[2021.11.11-11.34.46:991][854]LogContentValidation: Display: Validating Material /Game/_ProjectContent/Material/Terrian_Matt.Terrian_Matt
+[2021.11.11-11.34.47:173][855]Cmd: QUIT_EDITOR
+[2021.11.11-11.34.47:193][855]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.11.11-11.34.47:311][855]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.11.11-11.34.48:098][855]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.11.11-11.34.48:098][855]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.11.11-11.34.48:099][855]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonExampleMap'.
+[2021.11.11-11.34.48:099][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-11.34.48:107][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.11-11.34.48:205][855]LogAudio: Display: Audio Device Manager Shutdown
+[2021.11.11-11.34.48:225][855]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.11-11.34.48:271][855]LogExit: Preparing to exit.
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407363600] Windows
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407363500] Default__DeviceProfile
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407350C00] WindowsNoEditor
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407360C00] WindowsServer
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407352E00] WindowsClient
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407362D00] IOS
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407351500] iPadAir
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407361400] iPadAir2
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [000002240730C800] IPadPro
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [000002240730C900] iPadAir3
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407362700] iPadAir4
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [000002240730F600] iPadMini2
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407361900] iPadMini3
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [000002240730DF00] iPadMini4
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407363B00] iPadMini5
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407350900] iPhone6
+[2021.11.11-11.34.49:339][855]LogDeviceProfile: Device profile begin destroy: [0000022407351D00] iPodTouch6
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407303E00] iPhone7
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407303F00] iPodTouch7
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407350500] iPhone5S
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407301100] iPhone6Plus
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407350300] iPhone6S
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407302800] iPhone6SPlus
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407353900] iPhone7Plus
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407301900] iPhoneSE
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407353400] iPhone8
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407303D00] iPhone8Plus
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407353E00] iPhoneX
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407300C00] iPhoneXS
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407352800] iPhoneXSMax
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407301600] iPhoneXR
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407352400] iPhone11
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407302700] iPhone11Pro
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407351F00] iPhone11ProMax
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407301800] iPhoneSE2
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407350800] iPhone12Mini
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407301300] iPhone12
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407350700] iPhone12Pro
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407302200] iPhone12ProMax
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407350100] iPadPro105
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407300D00] iPadPro129
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407351300] iPadPro97
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407301000] iPadPro2_129
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407353F00] iPad5
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407301B00] iPad6
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407350D00] iPad7
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407302600] iPad8
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407350600] iPadPro11
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407303300] iPadPro2_11
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407351000] iPadPro3_129
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407300700] iPadPro4_129
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407351A00] AppleTV
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407300F00] AppleTV4K
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407352D00] TVOS
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407303700] Mac
+[2021.11.11-11.34.49:340][855]LogDeviceProfile: Device profile begin destroy: [0000022407352300] MacClient
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407301200] MacNoEditor
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407353800] MacServer
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407303500] Linux
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407353600] LinuxAArch64
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407302C00] LinuxNoEditor
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407353500] LinuxAArch64NoEditor
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407302F00] LinuxClient
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407353D00] LinuxAArch64Client
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730E200] LinuxServer
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D5000] LinuxAArch64Server
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730EC00] Android
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D5500] Android_Low
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730FA00] Android_Mid
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D5600] Android_High
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730EF00] Android_Default
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D4F00] Android_Adreno4xx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730DE00] Android_Adreno5xx_Low
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D4100] Android_Adreno5xx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730CA00] Android_Adreno6xx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D4B00] Android_Adreno6xx_Vulkan
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730DA00] Android_Mali_T6xx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D5C00] Android_Mali_T7xx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730D700] Android_Mali_T8xx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D4700] Android_Mali_G71
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730D200] Android_Mali_G72
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D5A00] Android_Mali_G72_Vulkan
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730E600] Android_Mali_G76
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D5900] Android_Mali_G76_Vulkan
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [000002240730C300] Android_Mali_G77
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [00000224073D5B00] Android_Mali_G77_Vulkan
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407352100] Android_Vulkan_SM5
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407303A00] Android_PowerVR_G6xxx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407353C00] Android_PowerVR_GT7xxx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407301700] Android_PowerVR_GE8xxx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407352C00] Android_PowerVR_GM9xxx
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407302E00] Android_PowerVR_GM9xxx_Vulkan
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407353A00] Android_TegraK1
+[2021.11.11-11.34.49:341][855]LogDeviceProfile: Device profile begin destroy: [0000022407301D00] Android_Unknown_Vulkan
+[2021.11.11-11.34.49:342][855]LogDeviceProfile: Device profile begin destroy: [0000022407351100] Lumin
+[2021.11.11-11.34.49:342][855]LogDeviceProfile: Device profile begin destroy: [0000022407301500] Lumin_Desktop
+[2021.11.11-11.34.49:342][855]LogDeviceProfile: Device profile begin destroy: [0000022407352200] HoloLens
+[2021.11.11-11.34.50:428][855]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:429][855]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:431][855]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:432][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:432][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:432][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:432][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:432][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:432][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:432][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:432][855]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:434][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:434][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:434][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:434][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:434][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:434][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:434][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:434][855]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:436][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:436][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:436][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:436][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:436][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:436][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:436][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:436][855]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:437][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:437][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:437][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:437][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:437][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:437][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:437][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:437][855]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:439][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:439][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:439][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:439][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:439][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:439][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:439][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:439][855]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:760][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:760][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:760][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:760][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:760][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:760][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:760][855]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.11.11-11.34.50:760][855]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.11-11.34.50:932][855]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.11-11.34.51:382][855]LogExit: Editor shut down
+[2021.11.11-11.34.51:383][855]LogExit: Transaction tracking system shut down
+[2021.11.11-11.34.55:214][855]LogExit: Object subsystem successfully closed.
+[2021.11.11-11.34.55:516][855]LogShaderCompilers: Display: Shaders left to compile 0

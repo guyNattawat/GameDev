@@ -1,0 +1,860 @@
+{
+	"AssetInfoVersion": 1,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "03E1319B0AD27A1C710B0A3BE228E7896BCD3BA2",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D37E7202E0680945D0918A992D000C80407DCB1F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D70C2607E7BFBA0FDC0C4245BBEEBB5AA1AE72F1",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5496FD3AF1E2C8D7B95A4F9C1079936EE0CBAA3A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A416E545A60C160C6318CCFAC432C6410C655360",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F93134837C28753781A7BD8DC782DB7424609A4D",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "16AF2E0EB1932B1631646561810F38F543B2DD74",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset",
+				"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C010C726AF1E7028F89F436AE8135F61C3141A58",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2BCCB93364802DC4DFEA31BA82ABC72595AFF1F0",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6AF4C139FDD53BD1B6CD1F7BB275A486732537CC",
+			"Assets": [
+				"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BCDFE1724BE9730D1E29CA4908CF8E7BB7F15BA4",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D34FD27DE2247F4F6B86CA2F283CF2770A8CAE2C",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "22054000E00AB4C8806BAE5C77B5F6663B64D097",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7230433FAD659BA830F5A1A1C0BAF66E7817B8C0",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "51215746F1A85E2A5F3FCDC10A176B43678BB3F2",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "89F324E0E5F7E6BCA77FF2853DE693544FA67BA4",
+			"Assets": [
+				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E0C3D6B89FB3C2428BEC9D2B7CFCF66DAEF45533",
+			"Assets": [
+				"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "850B488FFF9A96E41228D6193DB67F368F4F8C13",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "36555B419409E8EEF3E47DABE21B02AE2DFC24C0",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "82DD94F0DE9F9A7BB980C2B1DB07E10EA86BD9C0",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "879BA5529F9E49539F3661EBBF97727C0274E85C",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "86D5E72230268DA4319BCEEF0A8BED439C0850E3",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4FD44C667142989D0AAD9C27C1A71B084EDB4AF1",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "29F6796CCB0FDA677E20CC091A9C8F92F439930F",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4F6F2C30D1026FDDD5DB5E6DA9D5ABF086914D89",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A222772A811631A9E4494C86646AF77460D794FF",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset",
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F33C65A6750A7A0887669DC2B24B78BDDCC9296E",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2C00864D2DE6FB1F1C7A192228BC5BFCC0576B59",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CADB09A3B6539D389A4CAA93284D7B63072F05F2",
+			"Assets": [
+				"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "43C0F83213258445A5C3CC400A4A5EE40AA867AE",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CC7B58CD945C2F11470A24BE2452CF2814BDD080",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5920D7CC17984E47203A35BD6C2697A2F7DC659C",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E55938AA7565D9474B99F8AAD6EF3831A17BCF1A",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C663E5FA91D0202184E031944F2501F7CF372106",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7466814D2AE5707992DC0E297B34F786D7C01390",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2A9C595B3C8C34F535A2BB33DF4DB171271EAA41",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D8F3206F105ACB0730B8220176F2DB5AA3577534",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FDDF3839A155129FBCB3CDC60A6F6F6415FEB631",
+			"Assets": [
+				"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B29B65C20F1B83180093C8BC6791CC469EB98A9F",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Stones/M_RockCoverage_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "714EE696F050E7F89A6ABDB44243BE08C9E88FE4",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Rocks/MI_RuneRock_02.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Rocks/MI_RuneRock_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "066377D7BC14CB6B7C12A78FA5EE13F98FDC46BF",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Props/M_Props_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "50AD6F97134F750453C5BF3492176F2E97D5DF77",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4e_LightSpark_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23886414E40D84A2D9636D5FB9911ADE9E77201E",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/MI_4E_LightSpark_01_Star.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/MI_4E_LightSpark_01_Star_2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C11B19D447DAC71C16A87B7DC74DF6F749AEB096",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/MI_4E_LightSpark_01_Dot.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F8CBAFC3839837D7D452B99EC3D920BCEC011EF7",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/MII_4E_LightSpark_01_Spark_2s.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CB09AC6C696824E30A6A966B3F987325BF21CA9A",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Generic/M_4E_Invissi_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB2ECF2D9CE65F7CAE44C56C9C1670CB1F708B76",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4e_LightSphere_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1FA357333E2C0C9485C99A7F39080218F26086CF",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC0F1D30984E7692BC5C0B9440AADAA58A3EE483",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/LizardWarrior/Materials/M_Lizzard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A5A71F5681ABDB387929A1B8CE9EA3FB2E325C4C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/ATARTCasualWizard/Materials/ATARTCasualWizard_Weapon_Matt.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/ATARTCasualWizard/Materials/ATARTCasualWizard_Hair_Matt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C46CA405B36FCDD657544D53EBBEF7D73E190444",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/ATARTCasualWizard/Materials/ATARTCasualWizard_Face_Matt.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/ATARTCasualWizard/Materials/ATARTCasualWizard_Body_Matt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "84021C0093CC7A19A51CF75478B960651E1C791E",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Smoke_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E12B1F522E6A1062C5D5D0220C05198B197CAC3A",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Smoke_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "351C9FD4ACB9D240B43A5A3D59E67199FF19DF63",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Radial_Gradient.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BADFB97FE3CFF9A10ED0A2C65CD42477A0A7A8A5",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Flame_03.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "43812662CF59C8BC0C0B8390117E86B3530275E6",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/ThirdPerson/Meshes/RampMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7C00CD1EB762FFA8BA0543AFA8488F6E08DF4EB1",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "66789AAF29DB9888C9E5869474097ED3A08F8BF7",
+			"Assets": [
+				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3D2A6EA5020CCE421DADA9AD3751857F562DF313",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Material/Terrian_Matt.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9999B6B511EC890A89232AD11112E2189A6A95BE",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map03.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map02.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FE7C48B658D1F3BBE2BAFDE3C2B0006501776FE3",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map03.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map02.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D438533923DA4DFE054DE3F36E8B8BE776BFD68C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map03.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map02.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3EC6C832C53735739F956B746C60B8AD58A3F42A",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_WaterfallFoam.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9DB896ED92F7C507B2924844CEEE993BF39142F6",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Water_Moving.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6147186966D99091EA476392CEF5E45EB6B644A5",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_WaterfallVolumetric.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23214C8E28DA5D566DF7C81C0B075AB7CE8CB534",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Foliage/M_Foliage_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "285C712ACDBB0D8AA580FFB04AA7CBBCAE6C2FC2",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Foliage/M_Bark_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BC88F8FD779DC9F2B98CB980BC40EAD889215CD6",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Water_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "853E6E89BE362B0E447CEF873F7DB73BC8E0A9C9",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Materials/M_Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F765CD6CADF4A9AE4C7BBC31DB90705A3B05F04F",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C2B55E12B196B585190812F7D22F0C6327A9BF44",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6767018342141F4C0D864F117598844E18FC515C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/_ProjectContent/Maps/Map01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3C818CCBB495833865CFF2CE3040122349B0528C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "15DCA3844302C62946149D4BFC2EB45101775935",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E87672B5E0CD9D2B2EFB7683857CCE52D9C095C2",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CC24675D3F58A49474A867E57FE54FBBEC4A3FB1",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5A91E7DC5A4A8CF884E5FE4867E76A561F95988C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CCF3854FDDF481F343551D11C27FBCA2B03D57DD",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2332B3DB6BC1F5881EE60CCF660408EF052F4973",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BAF03815D3F0C75E0811EA19D963B626807405C7",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BFFB994A4895645A8CA94991664AD793EE63DDFC",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "72F853F1B0DBBE3971985D207A499BB2B8890844",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F784C9AF8EBA354A3483EF38EC47823043F67295",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "17344F97B51A25598A7024057D6DFB5C4FC5BF09",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_Statue.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2267BA1CC84A91A18D205DCFD174CF6614DE6DC6",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "36CBA49ED3C790EC53429373C4789E209F66CCF7",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_Chair.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C7915DC88D5F8C3CEE4230B6A013D9A97220F5E9",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1331DC85C1C0CA81747BA56CAF6D6690122BF04B",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "704E95571677BFFC8E8BE118A337FED13FB7BC3D",
+			"Assets": [
+				"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "59E449980DF3A666753048DBD3589A0DB98CE433",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "4D4A187C261982170ECEF4E9EE4D573E352EAC0B",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "69B4A515AB464092AE40530AEAADD8EF8026D126",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B9B414489971019E9700BB1FFEB93E0FFB80C6F9",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "CCEB72F8A2F8294067C187ED38D12455301415D7",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "730E82C73A803BB44751C9F4F42B0BDC641EFB87",
+			"Assets": [
+				"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "E3F4BA6118258098C4EFBD0136FF2BB297C15E92",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/LizardWarrior/Materials/M_Ground.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "156EA81FA7F3B15A2AAFE1DA44D64CFF8E131C78",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Mannequin/Character/Materials/M_Male_Body.uasset",
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Mannequin/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "2FED0D1F3AF879A48A3B3D8BA1707C06B482DC08",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9745AD609DEA1B1F9B1F556BE1CAFEDFF30B7C8B",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "85BC5EC489608A1451C34303E02CF732C1F8B70A",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3AC33F5B4BF9ECB049BC7667486E990CB40DA06C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7E6AD578DA744BD0BFEF8FE1D947B36ACA69277A",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F17F30C245739E237FE58AF10F7B7EC0043342EE",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AA5702BDDD68B04E656B1C3127C0F3EF56BC90F6",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "33FE6139F8B5CA9B139C64F76EB3B9A5353B46CB",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4E_Basic_Star_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6570EAF3A8F1BB8CCDBEB1153FC2183C121EF95D",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/M_4E_LightningOrb_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "719972F5DE8B74CBC065BF48DF5F0B27257C37E9",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/M_4E_LightningGas_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FA9BF2442C05F9FD00291444292E4507363BE288",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/M_GenericLightning_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "6BE03EAC6772B8A7DC1E163E7B6D7F6BBDA638ED",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/M_4E_Lightning_Bolt_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1EEDF6F398C8676D335ED9EF714C75262D3FCB8A",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4E_ImpactFX_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A927E2D8D09634F8E68E57A81A75A7C7B0F30E61",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/M_4E_Lightning_Panner_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A33FE2CE1EE044B31B9EBD46733FF00793523CB2",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/M_4E_LightningRing_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DB1820BCD7FC9EAD23F2C7EB4D9AC5D43B511B3C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/M_4E_LightningForce_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "178D571F70F570A8D6F2B929F9F90A647D7D9B9E",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/MI_4E_Lightning_Bolt_01_Flicker.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D477D7BAB5BD838D7AACC8433C390D726AAF580C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Lightning/MI_4E_Lightning_Bolt_01b.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BB66E8D0A809C0595AF5972BA537C6E99C9689DB",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4E_Lightcylinder_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C3BC3B42CB988DE19DEDED79DA3C590CD03B52B9",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4E_LightCircle_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A55120E61F47D1E713DCB866FBCFB14BFABF6E57",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4E_LightCastRing_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DFE0CDED784FD852CF4567D868D115BFCFA88287",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/Luos8Elements/Materials/Light/M_4E_SpiralLight_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "80402EB70AA78CB10C8FB6DCB6453B8FACB04B27",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Utility/M_Sharpen.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "125321AE467736568D49DB778CB6A8EBE6FA8D64",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Utility/M_Grid_Base.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD8C13CE1A2667950E416558967BDF5105257EAE",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Terrain_Mesh.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "3DFCBF213280026B659BA742EE447C2A759ED054",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Foliage/M_Grass_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FC2C8739E9F9EDC3173676859235EC7E049D979D",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Foliage/M_Flower_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B7BC496CFA22DFD4EADF312A407BD9CF047DBFED",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Terrain_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "BF0747CE63D47AA6A38E1A0D668DB6A8572F8982",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Sky_Panning_Clouds_Stylized.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "43D0F5B26721A0D1A6AA3ECBF3A8C074BF29E886",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Terrain/M_Rainbow.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DC2A8D6D0BDD867A2DEBD39EF3AF08DB152FD2FA",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Stones/M_Tiling_Rock_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5706CB58AB0389140CE6DF49BFE6597C2136EABE",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Impostors/M_Impostor_SimpleOffset_Custom.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "013C3D9B33AFCCB5A51E7F1AB8118FDFA546A3A7",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Leaves_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "64F437D7064D4AC1368E0395ABE38F68F1508FA9",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Leaf_Master.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7ABBA94D34A9278B2FDC6E7C6613A8D91CD87BEC",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Fog_Cloud.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "23BE44EA16FC968708DB1058FE7C4784E6F6AB7C",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Fog_01.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "F8176D6B52E38EF7C528F1911B8F57447DE80B15",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Fog.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "92337F6D98A78C78118A491CAC544AF163C071CD",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Dust_Particle.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "755516F9472457C38832CF6DEF800A8FBF2C398B",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Cloud_BG_Moving.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0F9CA349CF26E7BA999240C84ADF6048FC3A56AE",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_Cloud_BG.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "754DCAC9198115F6CBA3BA5EAEFE1A77007A37DE",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Materials/Effects/M_CloudCard.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7A0F773481426D6E93E181C39FC6768890D54563",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/SharedResources/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "784031EE7141AA056D43D56B851176F88A615488",
+			"Assets": [
+				"C:/Users/GAI_Q/OneDrive - KMITL/Documents/GitHub/GameDev/Content/DreamscapeSeries/DreamscapeMeadows/Materials/Impostors/M_Impostor_Master.uasset"
+			]
+		}
+	]
+}
